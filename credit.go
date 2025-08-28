@@ -1,4 +1,5 @@
-package interfaces
+package go_practices
+
 import "fmt"
  type Mortgage struct {
 	creditPaymentTotal float64
